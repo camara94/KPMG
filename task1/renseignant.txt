@@ -1,0 +1,26 @@
+Salut,
+
+Conformément à la messagerie vocale, veuillez trouver 
+les 3 ensembles de données joints de Sprocket Central 
+Pty Ltd :
+
+ * Customer Demographic 
+ * Customer Addresses
+ * Transaction data in the past three months
+
+ Pouvez-vous s'il vous plaît examiner la qualité 
+ des données pour vous assurer qu'elles sont 
+ prêtes pour notre analyse dans la phase deux. 
+ N'oubliez pas de prendre note de toute hypothèse 
+ ou de tout problème sur lequel nous devons revenir 
+ avec le client. Ainsi que des recommandations à venir 
+ pour atténuer les problèmes actuels de 
+ qualité des données.
+
+ J'ai également joint un cadre de qualité des données à titre indicatif. 
+ Faites moi savoir si vous avez des questions.
+
+ Merci de votre aide.
+
+ Kind Regards
+Your Manager
