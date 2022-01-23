@@ -1,0 +1,12 @@
+Voici votre tâche :
+Rédiger un e-mail au client identifiant les problèmes 
+de qualité des données et les stratégies pour atténuer 
+ces problèmes. Reportez-vous au 
+« Tableau du cadre de qualité des données » 
+et aux ressources ci-dessous pour connaître 
+les critères et dimensions à prendre en compte.
+
+Vous pouvez utiliser des programmes comme Excel, 
+Google Sheets, Tableau, Power BI pour commencer. 
+N'hésitez pas à utiliser Python, le langage de programmation R,
+MatLab et d'autres outils d'analyse de données que vous connaissez.
