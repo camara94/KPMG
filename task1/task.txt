@@ -1,0 +1,13 @@
+Bonjour - Bienvenue à nouveau dans l'équipe ! 
+Le client a demandé à notre équipe d'évaluer la qualité de ses données ; 
+ainsi que de faire des recommandations sur les moyens de nettoyer 
+les données sous-jacentes et d'atténuer ces problèmes. Pouvez-vous, 
+s'il vous plaît, jeter un coup d'œil aux ensembles de données 
+que nous avons reçus et leur rédiger un e-mail identifiant 
+les problèmes de qualité des données et leur impact 
+sur notre analyse à l'avenir ?
+
+Je vous enverrai un exemple de cadre typique de qualité des données 
+qui peut être utilisé comme guide. N'oubliez pas de prendre 
+également en compte les clés de jointure entre les tables. 
+Merci encore pour votre aide."
